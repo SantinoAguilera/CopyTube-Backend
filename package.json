@@ -1,0 +1,25 @@
+{
+  "name": "copytube-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SantinoAguilera/CopyTube-Backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SantinoAguilera/CopyTube-Backend/issues"
+  },
+  "homepage": "https://github.com/SantinoAguilera/CopyTube-Backend#readme",
+  "dependencies": {
+    "axios": "^1.11.0",
+    "express": "^5.1.0",
+    "firebase": "^12.3.0",
+    "nodemon": "^3.1.10"
+  }
+}
